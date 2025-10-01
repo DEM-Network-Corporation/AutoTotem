@@ -25,5 +25,6 @@ In this setcion we'll talk about the pros and cons.
 This datapack supports the follwing versions:
 
 + 1.20.4
++ 1.21.4
 
 **NOTE: IF YOU USE A UNSUPPORTED VERSION YOU MAY FIND BUGS, HOWEVER THEY CANNOT BE REPORTED BECAUSE THE HAPPEN IN UNSUPPORTED VERSIONS.**
