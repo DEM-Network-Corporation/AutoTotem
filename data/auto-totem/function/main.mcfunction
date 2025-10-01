@@ -1,0 +1,2 @@
+execute as @a at @s if data entity @s Inventory[{id:"minecraft:totem_of_undying"}] unless data entity @s Inventory[{Slot:-106b}] run tag @s add totem
+execute as @a[tag=totem] at @s run function auto-totem:totem
